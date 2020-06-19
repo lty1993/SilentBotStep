@@ -1,0 +1,236 @@
+*************************************************************
+FileName = SilentBotStep.GBR
+AutoAperture = True
+*************************************************************
+Generating : L1
+      File : SilentBotStep_Copper_Signal_Top.gbr
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : SilentBotStep_Copper_Signal_1.gbr
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : L3
+      File : SilentBotStep_Copper_Signal_2.gbr
+
+    Adding Layer      : L3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : L4
+      File : SilentBotStep_Copper_Signal_Bot.gbr
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SilentBotStep_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SilentBotStep_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SilentBotStep_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : SilentBotStep_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : SilentBotStep_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SilentBotStep_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D27
+    D28
+    D29
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : SilentBotStep_Profile.gbr
+
+
+Used DCodes :
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : SilentBotStep_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : SilentBotStep_PTH_Drill.gbr
+
+
+Used DCodes :
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SilentBotStep_Drawing_1.gbr
+
+    Adding Drill Pair : L1-L4
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SilentBotStep_Drillmap_1.gbr
+
+    Adding Drill Pair : L1-L4
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D43
+*************************************************************
+
