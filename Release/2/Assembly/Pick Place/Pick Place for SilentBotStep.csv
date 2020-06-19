@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\lty1993\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for SilentBotStep.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/06/20
+Time:       02:48
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C7","C3216X7R1V106M160AC","TopLayer","CAPC3216X180X20LL20","7.6200","1.7780","0","CERAMIC CAPACITOR, 10UF, 35V, X7R, 1206, FULL REEL; Product Range:C Series; Capacitance:10 F; Capacitance Tolerance: 20%; Dielectric Characteristic:X7R; Voltage Rating:35V; Ceramic Capacitor Case:1206 [3216 Metric]; MSL:- ;RoHS Compliant: Yes"
+"C6","GRM155R71H104KE14D","TopLayer","CAPC1005X55X25LL05T10","3.8100","6.3500","180","MURATA - GRM155R71H104KE14D - CAP, MLCC, X7R, 0.1UF, 50V, 0402"
+"C5","GRM155R71H104KE14D","TopLayer","CAPC1005X55X25LL05T10","3.8100","13.9700","180","MURATA - GRM155R71H104KE14D - CAP, MLCC, X7R, 0.1UF, 50V, 0402"
+"U1","TMC2209-LA-T","TopLayer","Trinamic_0_IPC_C","7.6200","10.1600","90","Motor Driver, Stepper, QFN-28"
+"R7","RL1220S-R18-F","TopLayer","RESC2013X50X40LL20T20","3.8100","8.1280","270","RES SMD 180 MOHM 1% 1/3W 0805"
+"R6","RC0402JR-070RL","TopLayer","RESC1005X40X25LL05T10","11.4300","11.1760","180","YAGEO - RC0402JR-070RL. - RES, THICK FILM, 0R, 0.0625W, 0402"
+"R5","RC0402JR-070RL","TopLayer","RESC1005X40X25LL05T10","11.4300","12.1920","180","YAGEO - RC0402JR-070RL. - RES, THICK FILM, 0R, 0.0625W, 0402"
+"R4","RL1220S-R18-F","TopLayer","RESC2013X50X40LL20T20","3.8100","12.1920","90","RES SMD 180 MOHM 1% 1/3W 0805"
+"R3","RC0402JR-070RL","TopLayer","RESC1005X40X25LL05T10","10.1600","6.3500","90","YAGEO - RC0402JR-070RL. - RES, THICK FILM, 0R, 0.0625W, 0402"
+"R2","RC0402JR-070RL","TopLayer","RESC1005X40X25LL05T10","11.4300","10.1600","180","YAGEO - RC0402JR-070RL. - RES, THICK FILM, 0R, 0.0625W, 0402"
+"R1","RC0402JR-070RL","TopLayer","RESC1005X40X25LL05T10","11.4300","9.1440","180","YAGEO - RC0402JR-070RL. - RES, THICK FILM, 0R, 0.0625W, 0402"
+"P2","61300811121","TopLayer","61300811121","1.2700","10.1600","270","Board-To-Board Connector, Vertical, Wr-Phd Series, Through Hole, Header, 8, 2.54 Mm"
+"P1","61300811121","TopLayer","61300811121","13.9700","10.1600","270","Board-To-Board Connector, Vertical, Wr-Phd Series, Through Hole, Header, 8, 2.54 Mm"
+"C4","GRM155R71H104KE14D","TopLayer","CAPC1005X55X25LL05T10","9.1440","6.3500","270","MURATA - GRM155R71H104KE14D - CAP, MLCC, X7R, 0.1UF, 50V, 0402"
+"C3","GRM155R60J475ME47D","TopLayer","CAPC1005X55X25LL05T10","11.1760","7.6200","90","CAP CER 4.7UF 6.3V X5R 0402"
+"C2","CC0402KRX7R9BB223","TopLayer","CAPC1005X55X25LL05T10","8.1280","6.3500","270","Multilayer Ceramic Capacitors MLCC - SMD/SMT 22K pF 10% 50 Volts"
+"C1","GRM155R71H104KE14D","TopLayer","CAPC1005X55X25LL05T10","9.6520","13.7160","180","MURATA - GRM155R71H104KE14D - CAP, MLCC, X7R, 0.1UF, 50V, 0402"
