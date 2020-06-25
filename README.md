@@ -9,3 +9,4 @@ This is a stepper motor driver board based on Trinamic TMC2209.
    - No need to manually set VREF
    - No need to inverse motor direction
    - Tested on Flashforge Guider 2
+ - Please use latest release since older releases may contain hardware defects. 
